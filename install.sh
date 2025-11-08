@@ -13,7 +13,7 @@ BLUE='\033[0;34m'
 NC='\033[0m' # No Color
 
 # 项目信息
-REPO_URL="https://github.com/YOUR_USERNAME/ai-stock-trader.git"
+REPO_URL="https://github.com/Chrisfungg/ai-stock-trader.git"
 INSTALL_DIR="$HOME/ai-stock-trader"
 VERSION="v13.0"
 
