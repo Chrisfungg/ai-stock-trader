@@ -27,8 +27,8 @@ warnings.filterwarnings('ignore')
 class Config:
     """系统配置"""
     # API配置
-    TUSHARE_TOKEN = "cc39e6a5d5dba006b58ee20e6bfdf65d5c7c9beff2c9d48e4c6dd8f4"
-    DEEPSEEK_API_KEY = "sk-07dd31b978174415bb03a4e7c07a9ddd"
+    TUSHARE_TOKEN = ""
+    DEEPSEEK_API_KEY = ""
     DEEPSEEK_BASE_URL = "https://api.deepseek.com/v1"
     
     # 交易配置
